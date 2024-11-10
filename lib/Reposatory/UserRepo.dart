@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:prefectioncompany/Model/UserModel.dart';
 
-import '../Model/PersonData.dart';
+import '../Model/PersonDataModel.dart';
 
 class AllUsersData {
   final String apiUrl = 'https://reqres.in/api/users?page=1';

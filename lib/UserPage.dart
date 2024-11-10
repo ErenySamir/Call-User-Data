@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'Model/PersonData.dart';
+import 'Model/PersonDataModel.dart';
 import 'Reposatory/PersonRepo.dart';
 import 'package:url_launcher/url_launcher.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prefectioncompany/Model/PersonData.dart';
+import 'package:prefectioncompany/Model/PersonDataModel.dart';
 import 'package:prefectioncompany/Model/UserModel.dart';
 import 'package:prefectioncompany/UserPage.dart';
 
